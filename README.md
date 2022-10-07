@@ -53,19 +53,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
-
-### :fire: My Stats :
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaydenBurns&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaydenBurns&layout=compact&theme=vision-friendly-dark)](https://github.com/CaydenBurns/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 CaydenBurns/CaydenBurns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
