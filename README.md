@@ -58,8 +58,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaydenBurns&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaydenBurns&layout=compact&theme=vision-friendly-dark)](https://github.com/CaydenBurns/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@Cayden/8eda0699-a3e2-42e3-be90-067f8ec5f8a1.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Cayden/05ee41c1-14e8-4a00-ab86-f8b562a54d30.svg"></embed></figure>
+<a href="https://wakatime.com/@0f00e971-4774-4a4d-bde7-d4680c553cf9"><img src="https://wakatime.com/badge/user/0f00e971-4774-4a4d-bde7-d4680c553cf9.svg" alt="Total time coded since Jun 8 2022" /></a>
 
 <!---
 CaydenBurns/CaydenBurns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
