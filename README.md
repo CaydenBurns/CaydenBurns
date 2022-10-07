@@ -31,8 +31,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cayden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caydenburns/)
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -54,7 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
----
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ### :fire: My Stats :
 
