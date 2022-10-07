@@ -17,6 +17,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### :man_technologist: About Me :
@@ -52,7 +54,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ### :fire: My Stats :
 
