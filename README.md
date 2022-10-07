@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I spend time in the greenest of nature, contribute to open source, mentor inner-city youth in Los Angeles and CODE HARDER !
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caydenburns/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cayden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caydenburns/)
 
 ---
 
