@@ -1,3 +1,4 @@
+<div id="container" align="center">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -61,6 +62,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img style="height: 400px; " src="https://wakatime.com/share/@Cayden/8eda0699-a3e2-42e3-be90-067f8ec5f8a1.svg"/>
 
 <a href="https://wakatime.com/@0f00e971-4774-4a4d-bde7-d4680c553cf9"><img src="https://wakatime.com/badge/user/0f00e971-4774-4a4d-bde7-d4680c553cf9.svg" alt="Total time coded since Jun 8 2022" /></a>
+  
+ </div>
 
 <!---
 CaydenBurns/CaydenBurns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
