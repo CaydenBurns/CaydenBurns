@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
  :telescope: I’m a Full-Stack Software Engineer contributing to Frontend and Backend web applications.
 
- :seedling: Exploring Technical Content Writing and Blog Creation.
+ :seedling: Exploring Technical Content Writing and Starting up my tech journey Blog.
 
  :zap: In my free time, I spend time in the greenest of nature, contribute to open source, mentor inner-city youth in Los Angeles and CODE HARDER !
 
