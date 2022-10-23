@@ -25,9 +25,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Inglewood California !
 
- :telescope: I’m a Full-Stack Software Engineer contributing to Frontend and Backend web applications.
+ :telescope: I love contributing to full stack applications.
 
- :seedling: Exploring Technical Content Writing and Starting up my tech journey Blog.
+ :seedling: Exploring Technical Content Writing and Starting up my tech journey Blog as well as advanced data structures and algortithms.
 
  :zap: In my free time, I spend time in the greenest of nature, contribute to open source, mentor inner-city youth in Los Angeles and CODE HARDER !
 
